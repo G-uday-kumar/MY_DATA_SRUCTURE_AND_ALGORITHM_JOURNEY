@@ -7,5 +7,6 @@ for num1 in arr1:
         lar_val1=num1
     elif num1 < lar_val1 and num1 > sec_lar_val1:
         sec_lar_val1=num1
+
 print("Second Large is:-",sec_lar_val1)
 
